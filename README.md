@@ -15,6 +15,8 @@ A dynamic news website displaying the latest news articles using a news API, wit
 
 ## Screenshots
 
+![S1](https://github.com/user-attachments/assets/1c76afaa-19e6-469f-a6ac-d1340de6e64d)
+![S2](https://github.com/user-attachments/assets/ebac3159-3bec-44ca-a25e-c807ed237d7a)
 
 
 ## Technologies Used
