@@ -11,11 +11,11 @@ A dynamic news website displaying the latest news articles using a news API, wit
   
 ## Demo
 
-Add a link to your deployed website here (if available).
+
 
 ## Screenshots
 
-Include screenshots of the website sections to give users a preview of the design and layout.
+
 
 ## Technologies Used
 
